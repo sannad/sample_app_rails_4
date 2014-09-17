@@ -56,4 +56,3 @@ group :production do
 end
 
 gem 'newrelic_rpm'
-
